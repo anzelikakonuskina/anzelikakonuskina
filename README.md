@@ -1,3 +1,4 @@
+ <p><img src="https://avatars.mds.yandex.net/i?id=6ea5ae8e4252c21b18d094b3b165bd18_sr-5231980-images-thumbs&n=13"></p>
 # Привет! 😈 #
 ## *Меня зовут Анжелика* ##
 
@@ -8,10 +9,8 @@
 - ~~Мне 17 лет~~ Мне 18 лет
 - Я первокурсница Иркутского Государственного Университета факультета БКиИ
 - Обучаюсь на прикладной информатике в дизайне
-### ***Мои навыки*** ###
-1. Git
-2. GitHub
-3. Markdown
+
+<h2 align="center">🛠️ My Tech Stack<h2>
 
 ### (Ссылки) ###
 [Мой GitHub](https://github.com/anzelikakonuskina/anzelikakonuskina)
