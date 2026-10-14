@@ -1,4 +1,6 @@
- <p><img src="https://avatars.mds.yandex.net/i?id=6ea5ae8e4252c21b18d094b3b165bd18_sr-5231980-images-thumbs&n=13"></p>
+<p align="center">
+  <img src="./coding-champion для профиля в Git.jpg" width="900">
+</p>
 # Привет! 😈 #
 ## *Меня зовут Анжелика* ##
 
