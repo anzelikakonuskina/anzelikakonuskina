@@ -1,7 +1,8 @@
 <p align="center">
   <img src="./coding-champion для профиля в Git.jpg" width="900">
 </p>
-# Привет! 😈 #
+
+# Привет! #
 ## *Меня зовут Анжелика* ##
 
 ---
