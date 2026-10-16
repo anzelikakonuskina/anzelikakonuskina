@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./orig.jfif" width="1200">
+  <img src="./orig.jfif" width="1500">
 </p>
 
 # Hi There! #
